@@ -1,10 +1,51 @@
-# Ignore PyCharm/IDEA files
+# =========================
+# Python
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.log
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# =========================
+# PyCharm / IntelliJ
+# =========================
 .idea/
 *.iml
 
-# Ignore Python cache
-__pycache__/
-*.pyc
+# =========================
+# Jupyter Notebooks
+# =========================
+.ipynb_checkpoints/
+*.ipynb.json
 
-# Ignore virtual environments
-venv/
+# =========================
+# Data / ML
+# =========================
+*.csv
+*.tsv
+*.parquet
+*.h5
+*.db
+*.sqlite
+*.model
+*.joblib
+
+# Large datasets (if needed, use Git LFS instead)
+*.zip
+*.tar
+*.gz
+*.rar
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
