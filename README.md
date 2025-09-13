@@ -10,7 +10,7 @@ I have 12+ years of IT experience (mainly in support and ASP.NET MVC maintenance
 ### ✅ Week 1 – Python Basics
 | Day | Topic                  | Main Script | Bonus Script | Status |
 |-----|------------------------|-------------|--------------|--------|
-| 1   | Hello Python           | `day1_hello.py` | `day1_bonus.py` | ⬜ |
+| 1   | Hello Python           | `day1_hello.py` | `day1_bonus.py` | ✅ |
 | 2   | Variables & Data Types | `day2_variables.py` | `day2_bonus.py` | ⬜ |
 | 3   | Strings & Formatting   | `day3_strings.py` | `day3_bonus.py` | ⬜ |
 | 4   | Lists & Tuples         | `day4_lists.py` | `day4_bonus.py` | ⬜ |
